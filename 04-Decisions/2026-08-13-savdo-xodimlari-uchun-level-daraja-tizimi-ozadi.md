@@ -15,3 +15,6 @@ verified: false
 
 ## 2026-08-13 - qo'shimcha
 2026-08-13, davomi (~14:52): Ruslan endi YANGI xodim (e'lon orqali kelgan, potensial nomzod) uchun bosqichma-bosqich o'qitish rejasini so'radi (LEVLga yetkazish rejasidan farqli - bu onboarding). 5 bosqichli reja taklif qilindi: 1) Tanishtiruv (1-2 kun, mahsulot+SalesDoc), 2) Kuzatib borish (3-5 kun, tajribali agent bilan), 3) Nazorat ostida amaliyot (1 hafta), 4) Mustaqil ish yaqin nazorat bilan (1 hafta, kichik maqsad 10-15mln), 5) Baholash (~1 oy, LEVL bilan solishtirib yakuniy qaror). Har bosqich uchun checklist ham taklif qilindi, javob kutilmoqda.
+
+## 2026-08-13 - qo'shimcha
+2026-08-13, davomi (~15:22): Ruslan so'ragan checklist (har 5 bosqich uchun aniq nazorat ro'yxati) tayyorlab berildi va yuborildi. Har bosqichda 4-7 tadan tekshiruv bandi bor (masalan 1-bosqich: SalesDoc sinovi, top-20 mahsulot testi; 5-bosqich: LEVL bilan solishtirish, yakuniy qaror). Ruslanga Excel/PDF formatda ham tayyorlash taklif qilindi - hali javob yo'q.
