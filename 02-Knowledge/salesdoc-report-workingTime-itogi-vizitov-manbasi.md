@@ -1,0 +1,11 @@
+﻿---
+type: knowledge
+title: salesdoc-report-workingTime-itogi-vizitov-manbasi
+date: 2026-08-17
+status: confirmed
+verified: false
+---
+
+2026-08-17 KATTA TOPILMA (Ruslan sorovi: 'savol 1 boyicha imkoniyatlarimizni korib chiq, salesdoctor va gps boyicha'). /report/workingTime ('Отчет: Итоги визитов') - AGENT INTIZOMI UCHUN ENG QIMMATLI MANBA, klassik HTML, get_dashboard_page parse qiladi (77 qator, 3 jadval - 1 va 2 BIR XIL nusxa, 3-si bosh). USTUNLAR (har agent, har kun): Агент, День, Первая активность, Последняя активность, Общее рабочее время, Общее рабочее время в часах, ПЕРВАЯ СИНХРОНИЗАЦИЯ, План, Посещенные, Не посещенные, Общее кол.во заказов, Общая сумма заказов. Sahifada yana bor (filtrlarda korindi, hali olinmagan): 'Время первой заявки', 'Время первого фото-отчёта', 'Начало визита'. ENG MUHIM METRIKA - SINXRONIZATSIYA va BIRINCHI TASHRIF ORASIDAGI FARQ (agent telefonni yoqqan, lekin dokonga kirmagan vaqt): Sobirov Botirjon sinx 06:49->tashrif 10:56 (4s07d), 06:54->11:20 (4s26d), 06:45->11:07 (4s22d) - UCH KUN KETMA-KET; Athamov 07:50->11:43 (3s53d), 08:08->12:31 (4s23d), 08:16->12:39 (4s23d); Boxodirxoja 08:14->11:18 (3s04d), 08:17->11:17 (3s00d); Murodullayev YAXSHILANMOQDA 08:09->08:15 (6 daq, 15.08). Bu Ruslanning 1-muammosining (09:00 da ombordan chiqish) togridan-togri olchovi. TUZOQ #1: sinxronizatsiya UYDA ham bolishi mumkin, malumotda tungi sinxronizatsiyalar bor (00:06, 00:13, 00:52, 01:11, 01:39, 01:59, 03:27, 04:12) - shovqin. YECHIM: faqat 06:00-10:00 oraligidagi birinchi sinxronizatsiyani olish. TUZOQ #2: ishlanmagan kunlarda (16.08 yakshanba, 17.08) 'Общее рабочее время в часах' OLDINGI KUN QIYMATINI TAKRORLAYDI (carry-forward artefakt, masalan Muhammad Ali 4.84 uch kun ketma-ket) - bu HAQIQIY qiymat emas, filtrlash kerak. QOSHIMCHA IMKONIYAT: 'План/Посещенные/Не посещенные' - marshrut rejasiga rioya olchanadi (masalan Muhammad Ali 11.08: plan 33, tashrif 36). GPS CHEKLOVI QAYTA TASDIQLANDI: /gps/backend/last va /gps2/monitoring/fetchData faqat OXIRGI nuqta, TREK YOQ - ombordan chiqish vaqtini aniq olchab bolmaydi. HALI TEKSHIRILMAGAN: Damasga tovar yuklash hujjati (vaqt belgisi bilan) bor-yoqligi - agar bolsa eng aniq olchov bolardi, Ruslandan ruxsat soraldi.
+
+*<- [[hub|Xarita]]*
