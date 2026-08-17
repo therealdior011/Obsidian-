@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {"id":"t1","type":"text","x":-1400,"y":-700,"width":420,"height":80,"text":"# AUDIT AGENTI\nQaror daraxti · 2026-08-17"},
+
+    {"id":"m1","type":"text","x":-1400,"y":-560,"width":460,"height":120,"text":"## 1. MANBA\n`sd-metrics.mjs`\n\nSalesDoc: GPS · tashriflar · workingTime · marshrut rejasi\n\n**Hech narsa hisoblamaydi**"},
+    {"id":"m2","type":"text","x":-1400,"y":-390,"width":460,"height":130,"text":"## 2. MA'NO QATLAMI\nMetrikalar KOD bilan hisoblanadi\n\nTuzoqlar shu yerda yopiladi:\n`summa` vs `closed_amount`\nsignal eskirishi · agent emas hisoblar"},
+    {"id":"m3","type":"text","x":-1400,"y":-220,"width":460,"height":130,"text":"## 3. QAROR\n`sd-run.mjs` → `QOIDALAR`\n\nChegaralar · dedup · jimlik qoidasi\nSinov davri · shtraf hisoblagichi"},
+    {"id":"m4","type":"text","x":-1400,"y":-50,"width":460,"height":120,"text":"## 4. BAYON\n`sd-format.mjs`\n\nTayyor raqamdan matn.\n**Raqamga tegmaydi.**\nFaqat ASCII — emoji buziladi"},
+    {"id":"m5","type":"text","x":-1400,"y":110,"width":460,"height":110,"text":"## 5. NAZORAT\n`SD-Watchdog` (10:00, 23:00)\n\nHisobot kelmasa — Ruslan akaga xabar.\n\"Jim buzilish\" yopilgan"},
+
+    {"id":"a0","type":"text","x":-800,"y":-560,"width":330,"height":80,"text":"### Ertalabki chiqish\nHar 15 daq · 07:00–12:00\n`SD-MorningWatch`"},
+    {"id":"a1","type":"text","x":-800,"y":-430,"width":330,"height":90,"text":"**GPS signali 60 daqiqadan yangimi?**"},
+    {"id":"a2","type":"text","x":-420,"y":-430,"width":300,"height":110,"text":"YO'Q →\nZaxira: SalesDoc\n1-sinxronizatsiya + 1-tashrif\n\nU ham yo'q → *\"aniqlay olmadim\"*","color":"3"},
+    {"id":"a3","type":"text","x":-800,"y":-300,"width":330,"height":80,"text":"**Bazadan masofa < 100 m?**"},
+    {"id":"a4","type":"text","x":-420,"y":-300,"width":300,"height":100,"text":"TASHQARIDA →\nOldingi tekshiruvda bazada edimi?\nHa → **chiqish vaqti qayd etildi**","color":"4"},
+    {"id":"a5","type":"text","x":-800,"y":-180,"width":330,"height":80,"text":"**09:00 dan o'tdimi?**\nHa → 15 daqiqa sanoq"},
+    {"id":"a6","type":"text","x":-800,"y":-60,"width":330,"height":100,"text":"**09:15 da hali bazada\nVA sotuv boshlanmagan?**\n\nHa → QOIDA BUZILDI","color":"1"},
+
+    {"id":"b0","type":"text","x":-800,"y":110,"width":330,"height":80,"text":"### Kun ichida yo'qolish\nTashriflar orasidagi tanaffus"},
+    {"id":"b1","type":"text","x":-800,"y":230,"width":330,"height":80,"text":"**Tanaffus > 90 daqiqa?**\n⚠ chegara kalibrlanmagan"},
+    {"id":"b2","type":"text","x":-420,"y":230,"width":300,"height":100,"text":"13:00–14:00 → tushlik, hisobga olinmaydi\n\nReja tugagan → normal","color":"6"},
+    {"id":"b3","type":"text","x":-800,"y":350,"width":330,"height":70,"text":"Aks holda → QOIDA BUZILDI","color":"1"},
+
+    {"id":"c0","type":"text","x":-330,"y":-60,"width":340,"height":80,"text":"### OGOHLANTIRISH OQIMI\nDedup: bugun yuborilganmi?"},
+    {"id":"c1","type":"text","x":-330,"y":60,"width":340,"height":90,"text":"**Sinov davri (2 hafta) tugadimi?**\n\nYo'q → faqat yoziladi, xabar YO'Q","color":"6"},
+    {"id":"c2","type":"text","x":-330,"y":180,"width":340,"height":70,"text":"1-marta → agentning o'ziga xabar"},
+    {"id":"c3","type":"text","x":-330,"y":280,"width":340,"height":70,"text":"2-marta → agent + guruhga qator"},
+    {"id":"c4","type":"text","x":-330,"y":380,"width":340,"height":90,"text":"3-marta → **SHTRAF TAKLIFI**\nRuslan akaga yuboriladi","color":"3"},
+    {"id":"c5","type":"text","x":80,"y":380,"width":300,"height":110,"text":"Ruslan tasdiqladi → shtraf yoziladi + guruhga\n\nRad etdi → hisoblagich nolga","color":"1"},
+    {"id":"c6","type":"text","x":-330,"y":500,"width":340,"height":80,"text":"4+ marta → tizimli muammo\nsuhbat kerak"},
+
+    {"id":"d0","type":"text","x":80,"y":-560,"width":330,"height":90,"text":"### Marshrut bajarilishi\nKun oxiri · reja vs tashrif"},
+    {"id":"d1","type":"text","x":80,"y":-440,"width":330,"height":90,"text":"Rejadagi do'konlar\n(2205 ta koordinatali mijoz)"},
+    {"id":"d2","type":"text","x":80,"y":-320,"width":330,"height":110,"text":"**Tashlab ketilgan bormi?**\nHa → ro'yxat: nomi + manzili"},
+    {"id":"d3","type":"text","x":80,"y":-180,"width":330,"height":100,"text":"GPS o'sha do'kon yonidan o'tganmi?\nO'tdi, lekin kirmadi → jiddiy","color":"1"},
+
+    {"id":"q1","type":"text","x":520,"y":-560,"width":380,"height":420,"text":"## ⚠ OCHIQ SAVOLLAR\n\n1. **GPS 9 ta telefonda buzuq** — kim tuzatadi?\n\n2. **Djo'rayev bazaga kelmaydi** (115 km) — unga 09:00 qoidasi tegishlimi?\n\n3. **Rasmiy ish vaqti** qanday? Dam olish kunlari?\n\n4. **Shtraf miqdori** va huquqiy asosi?\n\n5. **Agent → Telegram** bog'lanishi qanday quriladi?\n\n6. **\"Offis\", \"Yashnobod\", \"Angren\"** — kim boshqaradi?\n\n7. **13 soniyalik tashrif** — haqiqiy holatmi yoki ma'lumot xatosimi?","color":"3"}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"m1","fromSide":"bottom","toNode":"m2","toSide":"top"},
+    {"id":"e2","fromNode":"m2","fromSide":"bottom","toNode":"m3","toSide":"top"},
+    {"id":"e3","fromNode":"m3","fromSide":"bottom","toNode":"m4","toSide":"top"},
+    {"id":"e4","fromNode":"m4","fromSide":"bottom","toNode":"m5","toSide":"top"},
+
+    {"id":"e10","fromNode":"a0","fromSide":"bottom","toNode":"a1","toSide":"top"},
+    {"id":"e11","fromNode":"a1","fromSide":"right","toNode":"a2","toSide":"left","label":"yo'q"},
+    {"id":"e12","fromNode":"a1","fromSide":"bottom","toNode":"a3","toSide":"top","label":"ha"},
+    {"id":"e13","fromNode":"a3","fromSide":"right","toNode":"a4","toSide":"left","label":"tashqarida"},
+    {"id":"e14","fromNode":"a3","fromSide":"bottom","toNode":"a5","toSide":"top","label":"bazada"},
+    {"id":"e15","fromNode":"a5","fromSide":"bottom","toNode":"a6","toSide":"top"},
+    {"id":"e16","fromNode":"a6","fromSide":"right","toNode":"c0","toSide":"left"},
+
+    {"id":"e20","fromNode":"b0","fromSide":"bottom","toNode":"b1","toSide":"top"},
+    {"id":"e21","fromNode":"b1","fromSide":"right","toNode":"b2","toSide":"left","label":"istisno"},
+    {"id":"e22","fromNode":"b1","fromSide":"bottom","toNode":"b3","toSide":"top"},
+    {"id":"e23","fromNode":"b3","fromSide":"right","toNode":"c1","toSide":"left"},
+
+    {"id":"e30","fromNode":"c0","fromSide":"bottom","toNode":"c1","toSide":"top"},
+    {"id":"e31","fromNode":"c1","fromSide":"bottom","toNode":"c2","toSide":"top","label":"ha"},
+    {"id":"e32","fromNode":"c2","fromSide":"bottom","toNode":"c3","toSide":"top"},
+    {"id":"e33","fromNode":"c3","fromSide":"bottom","toNode":"c4","toSide":"top"},
+    {"id":"e34","fromNode":"c4","fromSide":"right","toNode":"c5","toSide":"left"},
+    {"id":"e35","fromNode":"c4","fromSide":"bottom","toNode":"c6","toSide":"top"},
+
+    {"id":"e40","fromNode":"d0","fromSide":"bottom","toNode":"d1","toSide":"top"},
+    {"id":"e41","fromNode":"d1","fromSide":"bottom","toNode":"d2","toSide":"top"},
+    {"id":"e42","fromNode":"d2","fromSide":"bottom","toNode":"d3","toSide":"top"},
+
+    {"id":"e50","fromNode":"m3","fromSide":"right","toNode":"c0","toSide":"left"}
+  ]
+}
