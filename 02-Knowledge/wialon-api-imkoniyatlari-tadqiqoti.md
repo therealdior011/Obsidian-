@@ -1,0 +1,11 @@
+﻿---
+type: knowledge
+title: wialon-api-imkoniyatlari-tadqiqoti
+date: 2026-08-18
+status: confirmed
+verified: false
+---
+
+2026-08-18 Wialon Remote API tadqiqoti (fon agent, faqat ochiq hujjatlar, parolsiz). ASOSIY TOPILMALAR: (1) AUTENTIFIKATSIYA: token/login metodi, 72-belgili token Token Manager'dan yaratiladi, huquqlarni (access_type) va muddatni (duration) cheklash mumkin - AYNAN shu narsani Ruslandan soragan edim. Sessiya 5 daqiqa harakatsiz qolsa ochadi. (2) MASHINA KOORDINATASI: joriy - core/search_items (flags:1025, javobda posMessage: x=longitude, y=latitude - DIQQAT teskari nomlanish); tarixiy trek - messages/load_interval (itemId, timeFrom, timeTo UNIX vaqtda). (3) MARSHRUT SOLISHTIRISH UCHUN ENG SAMARALI YECHIM (bizning holat - Wialon faqat koordinata trekini beradi, 100m radius solishtirishni ozimiz qilamiz): messages/load_interval, KUNIGA 1 MARTA har mashina uchun (masalan kechqurun), Haversine formula bilan har dokon koordinatasiga masofa hisoblanadi. Sabab: report/exec_report (Parkings/Geofences jadval turlari orqali ham mumkin) sekinroq va navbat cheklovi bor (bir sessiyada bitta report), messages/load_interval esa xom malumot, tezroq. (4) RATE LIMITS (rasmiy): report ijrosi <=200/5daq, xabar yuklash <=15mln/2daq, bir vaqtda umumiy sorov <=10, bir vaqtda ogir sorov (report/xabar) <=3 - bizning 50-200 mashina kunlik 1-martalik sorovimiz bu chegaralardan ANCHA past, muammo bolmaydi. (5) GEOFENCE (zona) - resource/update_zone bilan doira zona yaratish mumkin (markaz+radius), lekin bizga SHART EMAS, chunki ozimiz hisoblaymiz. (6) WEBHOOK - faqat notifikatsiya orqali (resource/update_notification, 'Send a request' harakati), umumiy webhook API emas - keyingi bosqich uchun (masalan 'uzoq harakatsizlik' signali), birinchi bosqichda kerak emas. ANIQLANMAGAN QOLGAN (hujjat JS render bolgani sabab): Parkings jadvalining tolik ustunlar royxati, notification webhook JSON sxemasi toliq - token kelganda amalda tekshiriladi. YAKUNIY REJA: (a) cheklangan-huquqli uzoq muddatli token yaratiladi, (b) kunlik jarayon - avval core/search_items bilan mashina ID lar (kesh), keyin har biriga messages/load_interval, (c) ozimizda Haversine bilan dokon-yaqinlik hisoblanadi, aynan sd-store-watch.mjs dagi mantiq bilan bir xil, faqat manba GPS ornига Wialon treki boladi.
+
+*<- [[hub|Xarita]]*
