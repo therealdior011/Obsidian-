@@ -1,0 +1,11 @@
+﻿---
+type: decision
+title: savat-qalinligi-taklif-qilish-madaniyati
+date: 2026-08-25
+status: confirmed
+verified: false
+---
+
+2026-08-25 21:10 RUSLANNING ENG QIMMATLI KUZATUVI: 'bizni xodimlar qiziqishi kam bolgani uchun 2 ta 2 ta taklif qilishgan, raqobatchilarimiz esa 5 karobkadan tiqishadi dokonlarga'. BU MENING RAQAMLARIM BILAN ANIQ MOS: buyurtmalarning 54% ida BITTA xil mahsulot, ortacha 1.63 tur. SABAB QAYTA QOYILDI (Ruslanga aytildi): bu qiziqish yoqligi EMAS - agent dokonga kirib 'nima kerak?' deb soraydi, dokonchi 'ikkita' deydi; raqobatchi esa 'javoningizda uchta qolibdi, men beshta qoyib ketaman' deydi; FARQ SAVOLDA - biri SORAYDI, ikkinchisi TAKLIF QILADI; agent yomon emas, unga taklif qilish uchun ASOS berilmagan. TORTTA YECHIM BERILDI: (1) QUTI BILAN SOTISH, dona bilan emas - narx bilan yonaltirish (1 dona 15,000, 6 talik quti 78,000 = donasi 13,000), dokon ozi hisoblab qutini oladi, majburlash kerak emas; (2) AGENT DOKONGA 'BILIB' KIRSIN - hozir quruq kiradi; SalesDoc da 'Ostatki (rekom.zapas)' funksiyasi BOR (Ombor bolimida), har dokon uchun tavsiya etilgan zaxira; sozlansa agent telefonida 'bu dokonga 6 ta bolishi kerak, hozir 2 ta bor, 4 ta taklif qil' chiqadi; ISHLATILYAPTIMI TEKSHIRILMAGAN - Ruslandan ruxsat soraldi; (3) JAVONNI SANASH ODATGA AYLANSIN - raqobatchi 5 ta tiqyapti demak javonga qaraydi, bizniki qaramaydi; buyurtmadan oldin qoldiqni sanash 30 soniyalik ish, sanagandan keyin 'uchta qolibdi' gapi OZ-OZIDAN taklifga aylanadi; (4) AGENT UCHUN 2 TA VA 5 TA BIR XIL MEHNAT - dokonga baribir kirdi, gaplashdi, yozdi; 2 ta yozsa 30 ming, 5 ta yozsa 75 ming foiz; pul ALLAQACHON BOR, faqat oylab korilmagan; 'har buyurtmaga uchtadan qoshsang oyiga daromadingga 800 ming qoshiladi' deb RAQAM korsatish kerak. JIDDIY STRATEGIK OGOHLANTIRISH: raqobatchi dokonga 5 quti tiqsa - u dokonning JAVONINI ham PULINI ham egallab oldi; dokon bir oy sizdan hech narsa olmaydi (joyi ham puli ham band); yani bu savdo yoqotish emas JAVON YOQOTISH; javon qaytarib olinmaydi, uni faqat egallash mumkin; SHUNING UCHUN KECHIKTIRMASLIK KERAK. TAKLIF QILINDI (javob kutilmoqda): har dokon uchun 'oxirgi marta nechta olgan, ortacha qancha oladi' royxatini agentlar kesimida chiqarish - agent ertaga shu qogoz bilan chiqsa buyurtma bugunoq ozgaradi.
+
+*<- [[hub|Xarita]]*
