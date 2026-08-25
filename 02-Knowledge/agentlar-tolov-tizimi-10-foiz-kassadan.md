@@ -1,0 +1,11 @@
+﻿---
+type: knowledge
+title: agentlar-tolov-tizimi-10-foiz-kassadan
+date: 2026-08-25
+status: confirmed
+verified: false
+---
+
+2026-08-25 04:45 AGENTLAR TOLOV TIZIMI ANIQLANDI (Ruslan javob berdi): 'savdo xodimlari olib kelgan KASSALARIDAN 10% oylik olishadi, FIKSA YOQ'. YANI foiz SAVDODAN emas YIGILGAN PULDAN (kassa), qatiy maosh yoq. TAHLIL BERILDI: (1) BU YAXSHI TOMONI - agent tovar berib puli kelmasa foiz olmaydi, bu QARZNI USHLAB TURADIGAN eng kuchli tormoz; kop kompaniyalar savdodan hisoblab keyin qarzga botadi; OZGARTIRMASLIK tavsiya qilindi. QOSHIMCHA XULOSA: kecha gaplashgan 'bir oyda 1 milliard' rejasidagi YUKLAMA XAVFI sizda TABIIY ravishda cheklangan - agent dokonga majburan tovar tiqishdan manfaatdor emas, chunki puli kelmaguncha foiz tegmaydi. (2) LEKIN SHU TIZIM SKU NI OLDIRADI - agent uchun 1 mln lik bitta kanistr ham, 1 mln lik 5 xil mayda mahsulot ham bir xil 100 ming foiz beradi, lekin birinchisi 10 daqiqa ikkinchisi bir soat ish; shu sababli kanistrni tanlaydi (tanbeh emas, oddiy hisob). Xuddi shu sabab uxlab yotgan dokonga bormaydi - yangi mijozning birinchi buyurtmasi ~300 ming, agentga 30 ming, bir soat vaqt uchun. (3) FIKSA YOQLIGI RIVOJLANISHNI TOXTATADI - agent har oy noldan boshlaydi, risk qilmaydi, ishonchli katta mijozlarga yopishadi, yangi dokon ochmaydi; BU 921 UXLAB YOTGAN DOKONNI TUSHUNTIRADI. ANIQ TAKLIF (asosni ozgartirmasdan ustiga qoshish): 10% kassa QOLADI; majburiy SKU bonusi - har dokon uchun oyiga 5,000 som agar 5 talik toplam bolsa (40 dokon = 200 ming qoshimcha); uygotish bonusi - 12 oydan beri xarid qilmagan dokon birinchi buyurtma bersa 20,000 som bir marta (oyiga 20 ta = 400 ming). NARXI: 10 agent uchun jami oyiga 5-6 mln som; kutilayotgan samara oyiga 100+ mln qoshimcha savdo; har 1 somga 15-20 som qaytadi. FIKSA MASALASI KOTARILDI (qatiy tavsiya emas, Ruslanning pul oqimiga boglik): kichik fiksa (ortacha daromadning 20-25%) bolsa undan INTIZOM TALAB QILISH mumkin - ertalab chiqish, foto, majburiy SKU; hozir fiksa yoq, demak faqat ILTIMOS qilish mumkin, TALAB qilish emas; nazorat tizimini yoqishdan oldin shu masala hal bolishi kerak. TAKLIF: bonuslarni hisoblashni avtomatlashtirish (oy oxirida 'kim qancha bonus oldi' jadvali).
+
+*<- [[hub|Xarita]]*
