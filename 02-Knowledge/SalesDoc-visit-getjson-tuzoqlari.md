@@ -19,3 +19,6 @@ sd-route.mjs yozilganda (2026-08-17) uchta tuzoq topildi va tekshirildi.
 TEKSHIRUV: 2026-08-15 uchun modul jami_tashrif=271 berdi, SalesDoc ozining Poseshennye soni ham aynan 271 - mos keldi.
 
 *<- [[hub|Xarita]]*
+
+## 2026-08-26 - qo'shimcha
+5) TUZOQ (2026-08-26 topildi): start/end maydonlarida sana bilan vaqt orasida IKKI PROBEL bor - masalan '2026-08-25  11:49:26'. JS'da new Date(s.replace(' ','T')) FAQAT birinchi probelni almashtiradi, natijada satr yaroqsiz bo'lib NaN qaytadi va tashrif davomiyligi hisoblanmaydi (jimgina 0 chiqadi, xato ko'rinmaydi). TO'G'RI USUL: s.trim().replace(/\s+/,'T'). _n150.mjs bunga qarshi .replace(/\s+/,' ') ishlatgan, lekin yangi skript yozilganda takrorlanadigan tuzoq. TEKSHIRUV: to'g'rilangandan keyin 24.08 uchun qisqa tashrif (<1 daq) soni 122 chiqdi - 25.08 kungi hisobotda qo'lda hisoblangan raqam bilan aynan mos keldi.
