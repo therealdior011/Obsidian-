@@ -1,0 +1,11 @@
+﻿---
+type: decision
+title: trigger-motivatsiya-dasturi-tayyor
+date: 2026-08-27
+status: confirmed
+verified: false
+---
+
+2026-08-27 11:45 TRIGGER MOTIVATSIYA DASTURI - TAYYOR VARIANT BERILDI (Ruslan: 'trigger maxsulotini koproq sotirish mativatsasini ishlab chiqib ber'). Butun hafta davomidagi muhokamalar yigilib bitta tayyor dasturga aylantirildi, agentlarga ozgartirmasdan oqib berish mumkin. TARKIBI: (1) BOSQICHLI FOIZ (progressiv, har bosqichdagi qismga): 3 mln gacha 10%, 3-5 mln 13%, 5-8 mln 15%, 8 mln+ 17%; jar yoq, har qoshimcha som koproq pul keltiradi. HISOB (avgust raqamlari bilan): Murodullayev 10.7 mln -> 1,469,000 (hozir 1,070,000); Athamov 9.9 -> 1,333,000 (hozir 990,000); Muhammad Ali 3.2 -> 326,000 (hozir 320,000); Muhammad Ali 6.4 ga chiqsa -> 770,000 (ikki barobardan kop). Yani kop sotgan DARHOL yutadi, kam sotgan hech narsa yoqotmaydi lekin osish yoli ochiq. (2) YANGI DOKON BONUSI: trigger olmagan dokonga birinchi marta sotsa 15,000 som; hozir 224 dokonda, aprelda 254 edi (30 tasi tushib qolgan); oyiga 15 ta yangi dokon = 225,000 qoshimcha. (3) OY YETAKCHISI: 1-orin 2,000,000, 2-orin 1,000,000; har hafta jamoaga reyting. (4) SHART (busiz bonus tolanmaydi): foto yoq tashrif oyiga 5 tadan kop bolmasin, 200 m dan uzoq tashrif 10 tadan kop bolmasin; buzilsa bonusning yarmi kesiladi; SABAB tushuntirildi - busiz agent dokonga bormasdan buyurtma yozib bonus olishi mumkin, dastur ozini ozi buzadi. IQTISOD: trigger marjasi 64.3%, eng yuqori 17% berilsa ham 47% qoladi (suxoy tumanda 10% bilan 20% qoladi); trigger aprel darajasiga (57 mln) qaytsa - foyda 36.6 mln, agentlarga ~8 mln, sof 28.6 mln; hozir 23.1/3.6/19.5; FARQ oyiga 9 mln, yiliga 108 mln; mukofotlar (3 mln) va yangi dokon bonuslari (~2 mln) shu ichida qoplanadi. BOSHLASH TAVSIYASI: sentabrni 'trigger oyi' deb elon qilish (boshi va oxiri aniq); birinchi oy FAQAT mukofot tomoni, intizom sharti elon qilinsin lekin jarima QOYILMASIN (ogohlantirish bilan); oktabrdan toliq yoqish. HAFTALIK HISOBOT VADA QILINDI: kim qancha sotdi, qaysi bosqichda, hozirgi bonus, KEYINGI BOSQICHGACHA QANCHA QOLGAN (aynan oxirgi raqam harakatga soladi). Rasm korinishida ham berish taklif qilindi. TASDIQ KUTILMOQDA.
+
+*<- [[hub|Xarita]]*
