@@ -1,0 +1,11 @@
+﻿---
+type: project
+title: AI moliyachi va AI marketolog arxitekturasi
+date: 2026-08-30
+status: confirmed
+verified: false
+---
+
+2026-08-30 IKKI YANGI AGENT-MENEJER ARXITEKTURASI LOYIHALANDI (Ruslan soradi: advanced daraja, kelajakda qurish uchun). ASOS: mavjud 5 qatlamli arxitektura (2026-08-16 qarori) saqlanadi, ikki agent 3-qatlamda (QAROR) ajraladi, 2-qatlam (MANO/semantic layer) IKKALASI UCHUN BITTA - aks holda ikki agent ikki xil raqam aytadi. AI MOLIYACHI: qarz yoshi (debtApi + clients JasonData2 bogilishi), marja (/finans/pnl, baza 39.5%), tannarxsiz zona (30 SKU, 103.5 mln kor zonada), chegirma nazorati, kassa, bonus kalkulyatori (bazadan yuqorisiga 15%). AI MARKETOLOG: qamrov (baza 548 dokon, maqsad 750), savat qalinligi (1.63 -> 2.2), 779 uxlagan dokonni uygotish trekeri, MML matritsasi (har dokon uchun 5 tadan nechtasi - HALI HISOBLANMAGAN), churn detektori (45+ kun jim), marshrut ishonchliligi, mavsum (antifriz sentabr-oktabr). ZIDDIYAT QOIDALARI: (1) MARJA VETO - taklif buyurtma marjasini 30% dan pastga tushirsa avtomatik bloklanadi (30% chunki eng past kategoriya suxoy tuman 30.1%); (2) QARZ VETO - 45+ kunlik qarzdor mijoz hech qanday aksiya/uygotish royxatiga tushmaydi; (3) qoshimcha xarajat talab qilmaydigan osish uchun moliyachi qarshilik qilmaydi (Ruslanning 'faqat osgan qismga 15%' tamoyili); (4) teng bolsa Ruslan hal qiladi (sd-ask.mjs tugmali sorov). PUL VA MIJOZGA TEGADIGAN HECH NARSA AVTOMATIK EMAS, agentlar SalesDoc ga FAQAT OQIYDI, yozmaydi. TARTIB: 0-litsenziya, 1-mano qatlami kodda, 2-moliyachi QARZ moduli (birinchi, chunki 1 mlrd rejasining yagona QAYTMAS xavfi qarz - kochada 437-779 mln), 3-marja, 4-marketolog qamrov/uygotish, 5-savat va MML matritsasi, 6-veto boglanishi, 7-bonus, 8-nazorat. SABAB: marketolog savdoni oshiradi, savdo bilan qarz ham osadi - TORMOZ AVVAL. YOQ MALUMOTLAR ochiq sanaldi: OPEX (Ruslandan sorаlgan, javob kelmagan - busiz sof foyda YOQ, faqat yalpi marja), ishlab chiqarish tannarxi (SalesDoc da zavod tushunchasi umuman yoq), raqobatchi narxi, javondagi ulush (/audit/facing bosh), dokonning sotuv narxi, avtomoyka sarfi, marketing xarajati, 'nega sotib olmadi' sababi, mashina-agent boglanishi.
+
+*<- [[hub|Xarita]]*
