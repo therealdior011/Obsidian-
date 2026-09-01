@@ -30,4 +30,16 @@ QOIDA: transkripsiya natijasini HAQIQAT deb bermaslik. Tushunilgan manoni ochiq 
 
 20 MB cheklovi hamon kuchda (Telegram bot API) — 1 soatlik yozuv baribir yuklanmaydi.
 
+## 2026-09-01 — 20 MB cheklovi YANA uchradi
+
+Ruslan 'Alisher aisaev 1 dars.m4a' (33.4 MB) yubordi. getFile: 'Bad Request: file is too big'.
+Kompyuterda ham topilmadi (Downloads va Telegram Desktop papkasi tekshirildi).
+
+TEKSHIRISH TARTIBI (kelgusida shu ketma-ketlikda):
+1. Diskda bormi - Downloads va 'Downloads/Telegram Desktop' papkasi. Telegram Desktop avtomatik tushirgan bo'lishi mumkin, bu 20 MB cheklovini butunlay aylanib o'tadi.
+2. Bo'lmasa getFile bilan sinash (20 MB dan katta bo'lsa rad etadi).
+3. Rad etilsa egasiga UCH yo'l taklif qilish: (a) kompyuterdagi Telegramda 'Yuklab olish' bosish - eng oson; (b) 15-20 daqiqalik bo'laklarga bo'lib yuborish; (c) Drive havolasi.
+
+OLDINDAN AYTILADIGAN CHEKLOV: uzun yozuvda large-v3 sekin ishlaydi (tizimda 7 GB RAM, model 2.5 GB talab qiladi) va o'zbekchani qisman oladi - xulosa chiqarish mumkin, so'zma-so'z aniq matn emas.
+
 *<- [[hub|Xarita]]*
