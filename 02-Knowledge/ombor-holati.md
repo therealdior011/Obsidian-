@@ -130,3 +130,43 @@ Qoldiq HAMMA ombor bo'yicha (asosiy + agentlar mashinasi).
 | GRAFF Antifreeze -40 KO'K 5 kg | 116 | 183 | 19 kun | **129** |
 | HOFFEN1 Avtomobil Sochig'i (GUFF) 40/60 | 86 | 154 | 17 kun | **120** |
 | HOFFEN1 MEGIC 20 Kg 77 | 76 | 133 | 17 kun | **102** |
+
+## 2026-08-31 (05:49)
+
+- Mahsulot: **222** | Qoldiq: **42 288** dona (asosiy omborda 25 739)
+- 30 kunda sotilgan: **52 304** dona, 1 349 buyurtma
+- Zakaz kerak: **57** ta | 10 kundan kam: **20** | tugagan: **5**
+- Harakatsiz: **26** ta (347 dona) | Mavsumiy ajratildi: **27** ta (433 dona)
+
+| Mahsulot | Qoldiq | 30 kun | Yetadi | Zakaz |
+|---|---:|---:|---:|---:|
+| HOFFEN1 (бумага для полика) Qog'oz | 28 525 | 42 500 | 20 kun | **28 500** |
+| GRAFF Antifreeze -40 QIZIL 1kg | 328 | 1 985 | 5 kun | **2 325** |
+| GRAFF Antifreeze -40 KO'K 1 kg | 370 | 1 557 | 7 kun | **1 710** |
+| HOFFEN1 (очиститель двигатель машины) 0.5… | 180 | 671 | 8 kun | **720** |
+| GRAFF незамерзайка - 10 c (OKEAN IFORLIK)… | 527 | 661 | 24 kun | **360** |
+| GRAFF Antifreeze -40 QIZIL 5 kg | 49 | 259 | 6 kun | **297** |
+| HOFFEN1 ( 06 ) 20 kg | 65 | 196 | 10 kun | **197** |
+| GRAFF Antifreeze -40 KO'K 5 kg | 116 | 183 | 19 kun | **129** |
+| HOFFEN1 Avtomobil Sochig'i (GUFF) 40/60 | 86 | 154 | 17 kun | **120** |
+| HOFFEN1 MEGIC 20 Kg 77 | 76 | 133 | 17 kun | **102** |
+
+## 2026-08-31 (06:05)
+
+- Mahsulot: **222** | Qoldiq: **42 288** dona (asosiy omborda 25 739)
+- 30 kunda sotilgan: **52 304** dona, 1 349 buyurtma
+- Zakaz kerak: **57** ta | 10 kundan kam: **20** | tugagan: **5**
+- Harakatsiz: **26** ta (347 dona) | Mavsumiy ajratildi: **27** ta (433 dona)
+
+| Mahsulot | Qoldiq | 30 kun | Yetadi | Zakaz |
+|---|---:|---:|---:|---:|
+| HOFFEN1 (бумага для полика) Qog'oz | 28 525 | 42 500 | 20 kun | **28 500** |
+| GRAFF Antifreeze -40 QIZIL 1kg | 328 | 1 985 | 5 kun | **2 325** |
+| GRAFF Antifreeze -40 KO'K 1 kg | 370 | 1 557 | 7 kun | **1 710** |
+| HOFFEN1 (очиститель двигатель машины) 0.5… | 180 | 671 | 8 kun | **720** |
+| GRAFF незамерзайка - 10 c (OKEAN IFORLIK)… | 527 | 661 | 24 kun | **360** |
+| GRAFF Antifreeze -40 QIZIL 5 kg | 49 | 259 | 6 kun | **297** |
+| HOFFEN1 ( 06 ) 20 kg | 65 | 196 | 10 kun | **197** |
+| GRAFF Antifreeze -40 KO'K 5 kg | 116 | 183 | 19 kun | **129** |
+| HOFFEN1 Avtomobil Sochig'i (GUFF) 40/60 | 86 | 154 | 17 kun | **120** |
+| HOFFEN1 MEGIC 20 Kg 77 | 76 | 133 | 17 kun | **102** |
