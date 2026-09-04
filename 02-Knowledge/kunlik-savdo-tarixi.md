@@ -25,3 +25,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-09-02 | 38 582 000 | 74 | 65 | 521 378 | 0 | Athamov Faxriddin |
 | 2026-09-02 | 38 582 000 | 74 | 65 | 521 378 | 0 | Athamov Faxriddin |
 | 2026-09-03 | 33 737 500 | 64 | 59 | 527 148 | 7 | Murodullayev Shoxrux |
+| 2026-09-04 | 30 407 500 | 62 | 52 | 490 444 | 4 | Muhammadjonov Muxtorjon |
