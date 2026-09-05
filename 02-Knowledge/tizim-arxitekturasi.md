@@ -509,6 +509,39 @@ yozish kerak.
 
 ---
 
+## 16b. Bu terminalning MCP/skill imkoniyatlari (yuqori darajada)
+
+**MUHIM (2026-09-05):** shu bo'limni to'liq texnik darajada (har bir MCP
+vositaning to'liq JSON sxemasi, har bir SKILL.md faylining to'liq matni)
+YOZMASLIK haqida ATAYLAB qaror qilingan — bugun ertalab (09:31) Habibulloh
+main-terminalga aynan shu darajadagi dumpni so'ragan va rad etilgan,
+Ruslanning tasdig'i hali kutilmoqda ([[shuhratov-hh-toliq-mcp-skill-konfiguratsiya-dump-soradi-rad-etildi]]).
+Ombor-terminalda ham xuddi shu turdagi so'rov kelgani uchun (bu suhbat),
+ikkala terminalda bir xil chegara saqlanadi: faqat NOMLAR va bir qatorlik
+tavsif — to'liq matn/sxema emas.
+
+**Ulangan MCP serverlar** (`mcp-ombor-salesdoc.json`, bo'lim 3):
+- **telegram** — shu terminalning o'z boti (@hoffen_ombor_managerbot) orqali
+  xabar o'qish/yozish (`reply`, `edit_message`, `react`, qavariq fayl yuklash).
+- **salesdoc** — SalesDoc'dan o'qish (login, GET so'rovlar orqali ombor/savdo
+  ma'lumoti; MCP darajasida yozish yo'q).
+
+**Mavjud skilllar** (nomi + bitta qatorlik tavsif, global ro'yxatdan):
+`hisobot`, `hujjat-tayyorlash`, `kunlik-brifing`, `moliya-nazorat`,
+`odam-dosye`, `qaror-yordam`, `vazifa-nazorat`, `yigilish` — bular HOFFEN
+uchun maxsus yozilgan skilllar (biznes jarayonlari uchun). Bulardan tashqari
+Claude Code'ning umumiy pluginlaridan kelgan skilllar ham bor: `find-skills`,
+`grilling`, `mcp-builder`, `task-observer`, `telegram:access`,
+`telegram:configure`, `claude-api`, `claude-in-chrome`, `design`, `dataviz`,
+`artifact-design`/`-diagramming`/`-capabilities`, `code-review`, `simplify`,
+`security-review` va boshqa standart Claude Code skilllari.
+
+Har bir skillning to'liq mazmuni (`SKILL.md` matni) shu skill birinchi marta
+haqiqatan kerak bo'lganda o'qiladi — hammasini oldindan to'liq matn bilan
+hujjatga yig'ish shart emas va hozircha (yuqoridagi sabab bilan) qilinmadi.
+
+---
+
 ## 17. Xotira vaultining GitHub sinxronizatsiyasi (MUHIM, hal qilinmagan savol)
 
 `C:\Users\user\Desktop\obsidian\hotira\hotira\` — Git repozitoriysi, remote:
