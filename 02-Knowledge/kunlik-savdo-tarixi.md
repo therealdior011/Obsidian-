@@ -29,3 +29,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-09-05 | 38 907 500 | 69 | 61 | 563 877 | 3 | Yashnobod & Sergeli |
 | 2026-09-06 | 2 440 000 | 2 | 2 | 1 220 000 | 0 | Djo'rayev Shuxratbek |
 | 2026-09-07 | 34 847 500 | 69 | 60 | 505 036 | 4 | Muhammadjonov Muxtorjon |
+| 2026-09-08 | 23 777 500 | 65 | 51 | 365 808 | 9 | Murodullayev Shoxrux |
