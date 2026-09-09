@@ -330,3 +330,23 @@ Qoldiq HAMMA ombor bo'yicha (asosiy + agentlar mashinasi).
 | HOFFEN1 Avtomobil Sochig'i (GUFF) 40/60 | 136 | 165 | 9 kun | **170** |
 | HOFFEN1 MEGIC 20 Kg 77 | 42 | 127 | 3 kun | **159** |
 | GRAFF Antifreeze -40 QIZIL 5 kg | 252 | 239 | 22 kun | **147** |
+
+## 2026-09-08 (14:00)
+
+- Mahsulot: **222** | Qoldiq: **24 676** dona (asosiy omborda 9 634)
+- 30 kunda sotilgan: **53 371** dona, 1 411 buyurtma
+- Zakaz kerak: **87** ta | 10 kundan kam: **63** | tugagan: **48**
+- Harakatsiz: **26** ta (354 dona) | Mavsumiy ajratildi: **27** ta (278 dona)
+
+| Mahsulot | Qoldiq | 30 kun | Yetadi | Zakaz |
+|---|---:|---:|---:|---:|
+| HOFFEN1 (бумага для полика) Qog'oz | 11 025 | 42 500 | 0 kun | **56 500** |
+| GRAFF Antifreeze -40 QIZIL 1kg | 92 | 2 146 | 0 kun | **2 850** |
+| GRAFF Antifreeze -40 KO'K 1 kg | 216 | 1 640 | 0 kun | **2 190** |
+| GRAFF незамерзайка - 10 c (OKEAN IFORLIK)… | 180 | 852 | 0 kun | **1 140** |
+| HOFFEN1 (чернитель резины силиконовый) 0.… | 1 054 | 965 | 22 kun | **588** |
+| GRAFF Antifreeze -40 KO'K 5 kg | 219 | 303 | 15 kun | **258** |
+| HOFFEN1 ( 06 ) 20 kg | 66 | 201 | 6 kun | **230** |
+| HOFFEN1 Avtomobil Sochig'i (GUFF) 40/60 | 134 | 173 | 6 kun | **196** |
+| GRAFF Antifreeze -40 QIZIL 5 kg | 233 | 246 | 18 kun | **177** |
+| HOFFEN1 MEGIC 20 Kg 77 | 33 | 130 | 2 kun | **166** |
