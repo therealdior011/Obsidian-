@@ -35,3 +35,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-09-11 | 18 278 000 | 51 | 45 | 358 392 | 2 | Muhammad Ali |
 | 2026-09-12 | 24 939 500 | 65 | 56 | 383 685 | 0 | Abdullaxo'jaev Boxodirxo'ja |
 | 2026-09-13 | 585 000 | 1 | 1 | 585 000 | 0 | Xasanov Dilshod |
+| 2026-09-14 | 26 480 000 | 57 | 53 | 464 561 | 5 | Muhammad Ali |
