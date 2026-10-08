@@ -39,3 +39,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | — |
 | 2026-10-02 | 55 077 000 | 87 | 76 | 633 069 | 3 | Murodullayev Shoxrux |
 | 2026-10-03 | 58 659 500 | 93 | 83 | 630 747 | 6 | Murodullayev Shoxrux |
+| 2026-10-08 | 54 356 500 | 88 | 79 | 617 688 | 2 | Murodullayev Shoxrux |
