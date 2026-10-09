@@ -510,3 +510,23 @@ Qoldiq HAMMA ombor bo'yicha (asosiy + agentlar mashinasi).
 | GRAFF Antifreeze -40 KO'K 5 kg | 71 | 468 | 1 kun | **615** |
 | GRAFF незамерзайка - 10 c (BUBLE GUM IFOR… | 12 | 384 | 0 kun | **516** |
 | GRAFF Antifreeze -40 QIZIL 5 kg | 103 | 358 | 2 kun | **462** |
+
+## 2026-10-08 (14:00)
+
+- Mahsulot: **233** | Qoldiq: **27 376** dona (asosiy omborda 11 188)
+- 30 kunda sotilgan: **61 793** dona, 1 631 buyurtma
+- Zakaz kerak: **89** ta | 10 kundan kam: **59** | tugagan: **34**
+- Harakatsiz: **33** ta (1 059 dona) | Mavsumiy ajratildi: **23** ta (576 dona)
+
+| Mahsulot | Qoldiq | 30 kun | Yetadi | Zakaz |
+|---|---:|---:|---:|---:|
+| HOFFEN1 (бумага для полика) Qog'oz | 15 025 | 47 000 | 2 kun | **59 500** |
+| GRAFF Antifreeze -40 QIZIL 1kg | 610 | 2 911 | 2 kun | **3 735** |
+| GRAFF Antifreeze -40 KO'K 1 kg | 897 | 2 219 | 4 kun | **2 670** |
+| HOFFEN1 (чернитель резины силиконовый) 0.… | 149 | 978 | 0 kun | **1 308** |
+| HOFFEN1 (очиститель двигатель машины) 0.5… | 252 | 942 | 1 kun | **1 248** |
+| GRAFF незамерзайка - 10 c (OLMA IFORLIK) … | 76 | 882 | 0 kun | **1 176** |
+| GRAFF незамерзайка - 10 c (OKEAN IFORLIK)… | 54 | 545 | 0 kun | **732** |
+| GRAFF Antifreeze -40 KO'K 5 kg | 71 | 471 | 0 kun | **627** |
+| GRAFF незамерзайка - 10 c (BUBLE GUM IFOR… | 12 | 384 | 0 kun | **516** |
+| GRAFF незамерзайка - 20 (OLMA IFORLIK) 1 L | 132 | 408 | 5 kun | **480** |
