@@ -48,3 +48,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-10-15 | 37 307 500 | 90 | 81 | 414 528 | 3 | Murodullayev Shoxrux |
 | 2026-10-17 | 22 634 000 | 64 | 59 | 353 656 | 2 | Sobirov Botirjon |
 | 2026-10-18 | 840 000 | 3 | 3 | 280 000 | 0 | Umarov Abdurahim |
+| 2026-10-20 | 0 | 0 | 0 | 0 | 0 | — |
