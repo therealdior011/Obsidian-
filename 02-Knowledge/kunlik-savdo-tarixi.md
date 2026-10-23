@@ -51,3 +51,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | — |
 | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | — |
 | 2026-10-21 | 25 254 500 | 58 | 53 | 435 422 | 2 | Raxmatjonov Kamronbek |
+| 2026-10-23 | 0 | 0 | 0 | 0 | 0 | — |
