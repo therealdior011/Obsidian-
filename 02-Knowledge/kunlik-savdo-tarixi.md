@@ -57,3 +57,4 @@ Har kuni 22:00 da `hisobot-kunlik-rasm.mjs` yozadi. Davr: o'sha kunning 00:00-24
 | 2026-10-28 | 25 409 500 | 68 | 62 | 373 669 | 4 | Abdurahmonov Abdulloh |
 | 2026-10-29 | 24 903 000 | 73 | 56 | 341 137 | 2 | Abdurahmonov Abdulloh |
 | 2026-10-31 | 17 264 000 | 38 | 36 | 454 316 | 1 | Athamov Faxriddin |
+| 2026-11-03 | 0 | 0 | 0 | 0 | 0 | — |
